@@ -20,6 +20,7 @@ I'm a Front-end Developer, currently working at ATMOS.
 <ul>
   <li><a href="https://app.rs.school/certificate/ivoy4btb" target="_blank">REACT 2023 Q1 (REACT)</a></li>
   <li><a href="https://app.rs.school/certificate/temkh4bg" target="_blank">JAVASCRIPT/FRONT-END 2022Q3 (JAVASCRIPT)</a></li>
+  <li><a href="https://firebasestorage.googleapis.com/v0/b/web-portal-fba06.appspot.com/o/files%2FFarkhod Kodirov - Front-end - Sep 29th%2C 2023.pdf?alt=media&token=f80d803c-aff4-4bda-8969-33ab9fb8508c" target="_blank">Commercial Software Development — Front-end</a></li>
 </ul>
 
 ## Contacts:
